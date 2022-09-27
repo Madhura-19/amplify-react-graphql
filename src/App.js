@@ -4,7 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1> helloooooo worlddddddd!</h1>
+     const petsArray = ['dog', 'cat', 'bird', 'monkey'];
+     console.table(petsArray)
+     console.log(petsArray)
     </div>
   );
 }
